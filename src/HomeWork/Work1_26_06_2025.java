@@ -94,6 +94,8 @@ public class Work1_26_06_2025 {
 
             nameAndGrades.put(name, grades);
         }
+
+        System.out.println("hello");
     }
 }
 //git remote add origin https://github.com/ROMA-YA/Rustam.git
